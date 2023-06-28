@@ -1,2 +1,1 @@
-# Juego1
-pasa la calle o te gusta ronaldo
+Actividad del alumno 3 - PRO - C30
